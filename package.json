@@ -1,0 +1,24 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "description": "Practice for TypeScript- prepping for backend set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmwoolf/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmwoolf/TypeScript/issues"
+  },
+  "homepage": "https://github.com/bmwoolf/TypeScript#readme",
+  "devDependencies": {
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  }
+}
